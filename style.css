@@ -2,3 +2,8 @@ svg {
   margin: 0 auto;
   display: block;
 }
+
+input {
+  width: calc(100% - 20px);
+  margin: 20px 10px;
+}
